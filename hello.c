@@ -11,6 +11,8 @@
 
      printf("Mara Lunday\n");
      printf("Mechanical Engineer\n");
+     printf("Corbin Lamplot\n");
+     printf("Computer Science\n");
 
      Return 0;
  }

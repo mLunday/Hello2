@@ -10,6 +10,7 @@
  int main(int argc, char **argv){
 
      printf("Mara Lunday\n");
+     printf("Mechanical Engineer\n");
 
      Return 0;
  }
